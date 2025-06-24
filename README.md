@@ -2,19 +2,17 @@
 <h3 align="center">A passionate full-stack developer & mentor from Ethiopia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Distributed%20Systems%20Enthusiast;Real-time%20App%20Builder;Lifelong%20Learner&center=true&width=440&height=45&color=00F59B&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Real-time%20App%20Builder;Lifelong%20Learner&center=true&width=440&height=45&color=00F59B&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on: **Telegram-based Real-time Bill Splitter with Django, Socket.io, and Stripe/Telebirr**
-- 🧠 I’m exploring **Distributed Programming**, **Real-Time Systems**, and **Financial APIs**
+- 🧠 I’m exploring **Real-Time Systems**, and **Financial APIs**
 - 💬 Ask me about:
-  - Full-stack app development with **React, Next.js, Django**
+  - Full-stack app development with **React, Next.js, Django, Express.js**
   - Real-time communication using **Socket.io, WebSockets**
-  - Secure payments using **Stripe, Chapa, Telebirr APIs**
-- 🧑‍🏫 I’m currently mentoring in a 3-month **Coding Bootcamp**
+  - Secure payments using **Chapa**
 - ✨ Fun Fact: I love turning complex backend logic into smooth user experiences!
 
 ---
@@ -34,13 +32,12 @@
 
 #### 🧩 Backend & DevOps
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
 #### 📡 Real-time & Payments
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
@@ -71,4 +68,3 @@
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
