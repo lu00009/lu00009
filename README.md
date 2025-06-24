@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lelo Mohamed</h1>
-<h3 align="center">A passionate full-stack developer & mentor from Ethiopia</h3>
+<h3 align="center">A passionate full-stack developer from Ethiopia</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Real-time%20App%20Builder;Lifelong%20Learner&center=true&width=440&height=45&color=00F59B&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
@@ -45,9 +45,9 @@
 ### 🔥 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lu00009&theme=radical" alt="streak-stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true&hide=issues" alt="github-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lu00009&show_icons=true&theme=radical&count_private=true&hide=issues" alt="github-stats"/>
 </p>
 
 ---
@@ -55,16 +55,15 @@
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&langs_count=6" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu00009&layout=compact&theme=tokyonight&langs_count=6" alt="top-langs" />
 </p>
 
 ---
 
 ### 🌍 Connect with Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-telegram-handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/humble0903)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lelo-mohamed-b6a592279)
 
 ---
 
