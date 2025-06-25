@@ -11,8 +11,6 @@
 - 🧠 I’m exploring **Real-Time Systems**, and **Financial APIs**
 - 💬 Ask me about:
   - Full-stack app development with **React, Next.js, Django, Express.js**
-  - Real-time communication using **Socket.io, WebSockets**
-  - Secure payments using **Chapa**
 - ✨ Fun Fact: I love turning complex backend logic into smooth user experiences!
 
 ---
