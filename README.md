@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lelo Mohamed</h1>
-<h3 align="center">A passionate junior full-stack developer from Ethiopia</h3>
+<h3 align="center">A passionate Junior Full-stack developer from Ethiopia</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer&Lifelong%20Learner&center=true&width=440&height=45&color=00F59B&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
