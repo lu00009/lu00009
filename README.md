@@ -35,10 +35,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-#### 📡 Real-time & Payments
-![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
----
 
 ### 🔥 My GitHub Stats
 
