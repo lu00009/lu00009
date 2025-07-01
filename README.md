@@ -32,7 +32,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Mongodb](https://img.shields.io/badge/MongoDB-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mongodb](https://img.shields.io/badge/MongoDB-336791?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
