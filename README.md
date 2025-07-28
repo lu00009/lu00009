@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lelo Mohamed</h1>
-<h3 align="center">A passionate Junior Full-stack developer from Ethiopia</h3>
+<h3 align="center">A passionate Aspiring Full-stack developer from Ethiopia</h3>
 
 ---
 
