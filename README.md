@@ -29,7 +29,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/MongoDB-336791?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-336791?style=for-the-badge&logo=postman&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-336791?style=for-the-badge&logo=postman&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-336791?style=for-the-badge&logo=prisma&logoColor=white)
 
 
