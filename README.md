@@ -4,9 +4,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🧠 I’m exploring **Real-Time Systems**, and **Financial APIs**
 - 💬 Ask me about:
-  - Full-stack app development with **React, Next.js, Django, Express.js**
+  - Full-stack app development with **React, Next.js, FastApi, Express.js**
 - ✨ Fun Fact: I love turning complex backend logic into smooth user experiences!
 
 ---
